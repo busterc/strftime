@@ -1,0 +1,25 @@
+{
+  "name": "strftime",
+  "main": "strftime.js",
+  "version": "0.8.2",
+  "authors": [
+    "Sami Samhuri <sami@samhuri.net>"
+  ],
+  "description": "strftime for JavaScript",
+  "keywords": [
+    "date",
+    "time",
+    "datetime",
+    "dateformat"
+  ],
+  "license": "MIT",
+  "homepage": "http://samhuri.net/proj/strftime",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower",
+    "test",
+    "tests"
+  ]
+}
